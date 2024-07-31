@@ -1,2 +1,7 @@
-# alura_book_noah_marold_2d
- 
+## Tecnologias
+* HTML
+* CSS
+* SwiperJS
+
+## Screenshots
+![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
